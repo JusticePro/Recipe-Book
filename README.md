@@ -11,12 +11,10 @@ You can download this <a href="https://github.com/JusticePro/Recipe-Book/release
 Allow you to search websites for an food recipe.<br>
 <h1>How do I use it</h1>
 At the top type the recipe then click search.<br>
-Then click on one the the labels. (text)
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/JusticePro/Recipe-Book/master/window.png"></img>
+Then click on one the the labels. (text)<br>
 <h1>What did I learn while making this?</h1>
 <ul>
   <li>Opening Websites</li>
   <li>Searching with an URL</li>
 </ul>
+<img src="https://raw.githubusercontent.com/JusticePro/Recipe-Book/master/window.png"></img>
