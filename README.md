@@ -13,6 +13,7 @@ Allow you to search websites for an food recipe.<br>
 At the top type the recipe then click search.<br>
 Then click on one the the labels. (text)
 <br>
+<br>
 <img src="https://raw.githubusercontent.com/JusticePro/Recipe-Book/master/window.png"></img>
 <h1>What did I learn while making this?</h1>
 <ul>
